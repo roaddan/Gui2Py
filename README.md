@@ -4,7 +4,7 @@ Utility to help the conversion from *.ui file to Python class.
   Well, it's in French. Who said that all things must be easy. ;-)
 # Pre-Requisites.
 Python 2.7 or Higher. (Not Python 3)
-pyuic4 or Pyside. 
+<br>pyuic4 or Pyside. 
 # Target OS
 Works in Mac OS, Linux and Windows;.
 # Description.
