@@ -1,4 +1,4 @@
-# Gui2Py
+# Guic2py
 Utility to help the conversion from *.ui file to Python class.
 # Pre-Requisites.
 pyuic4 or Pyside. 
