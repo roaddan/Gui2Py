@@ -6,8 +6,9 @@ Utility to help the conversion from *.ui file to Python class.
 pyuic4 or Pyside. 
 # Target OS
 Works in Mac OS TM, Linux and Windows TM.
+# Description.
 <div align=center>
 <P>The tool is first searching your path to find the tools.<br><img src="Images/ToolScan.png"></img>
 <P>Then the main window appear.<BR><img src="Images/MainWindow.png"></img>
-<P>The rest is self explanatory.<img src="Images/About.png"></img>
+<P>The rest is self explanatory.<BR><img src="Images/About.png"></img>
 <P>Have fun!</div>
