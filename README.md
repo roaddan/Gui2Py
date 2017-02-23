@@ -1,7 +1,8 @@
 # Guic2py
 Utility to help the conversion from *.ui file to Python class.
 # Note:
-  Well, it's in French. Who said that all things must be easy. ;-)
+  This tool was use to generate it's own GUI.
+  <BR>Well, it's in French. Who said that all things must be easy. ;-)
 # Pre-Requisites.
 Python 2.7 or Higher. (Not Python 3)
 <br>pyuic4 or pyside-uic. 
