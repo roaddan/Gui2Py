@@ -1,7 +1,7 @@
 # Guic2py
 Utility to help the conversion from *.ui file to Python class.
 # Note:
-  This tool was use to generate it's own GUI.
+  This app was used to generate it's own GUIs.
   <BR>Well, it's in French. Who said that all things must be easy. ;-)
 # Pre-Requisites.
 Python 2.7 or Higher. (Not Python 3)
@@ -10,7 +10,7 @@ Python 2.7 or Higher. (Not Python 3)
 Works in Mac OS, Linux and Windows;.
 # Description.
 <div align=center>
-<P>After discovering under which Os it's running the tool is then searching your path to find the available tools.<br><img src="Images/ToolScan.png"></img>
+<P>After discovering under which Os it run's, the app is then searching your path to find the available tools.<br><img src="Images/ToolScan.png"></img>
 <P>Then the main window appear. The rest is self explanatory.<BR><img src="Images/MainWindow.png"></img>
 <P>Cute Guy. Is'nt he?.<BR><img src="Images/About.png"></img>
 <P>Have fun!
